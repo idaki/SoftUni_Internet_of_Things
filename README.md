@@ -1,1 +1,1 @@
-# SoftUni_Internet_of_Things-
+# SoftUni_Internet_of_Things
